@@ -7,3 +7,5 @@ egg
 PCc game
 apple
 malta
+kela
+grapes
