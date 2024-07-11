@@ -1,4 +1,4 @@
-AM NA
+Greeting from My Computer
 second change
 third change
 forth change
