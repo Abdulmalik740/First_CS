@@ -1,4 +1,4 @@
-AM NA
+Greeting from Remote
 second change
 third change
 forth change
