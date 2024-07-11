@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Greeting from My Computer
+=======
+Greeting from Remote
+>>>>>>> d6d8f73fac1c22954fa3fdc0adc706b25eb760c1
 second change
 third change
 forth change
